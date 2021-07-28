@@ -1,0 +1,10 @@
+
+body {
+    padding-top: 5rem;
+}
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+/* static은 클라이언트가 직접 접속할 수 있는 위치 templates는 서버(Thymeleaf)에서 활용하여 직접 접속 불가능  */
